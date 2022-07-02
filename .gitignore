@@ -1,2 +1,8 @@
 # ignore venv files
 venv/
+
+#ignore config
+config.py
+
+#ignore run
+run.py
