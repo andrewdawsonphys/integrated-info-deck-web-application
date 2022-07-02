@@ -1,0 +1,2 @@
+# Ignore file venv/ files
+venv/
